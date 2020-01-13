@@ -359,4 +359,3 @@ print(f'There {verb} currently {len(primes)} {noun} in the {PRIMES_FILENAME}'
     + ' file.')
 print(f'The highest is {primes[len(primes)-1]}.')
 
-#     TEST CODE----TODO: REMOVE WHEN FINISHED TESTING----TEST CODE
